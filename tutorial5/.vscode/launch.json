@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InputShifterProg",
+            "request": "launch",
+            "mainClass": "tutorial5.cyclic_shift.InputShifterProg"
+        }
+    ]
+}
